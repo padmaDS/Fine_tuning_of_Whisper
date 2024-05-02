@@ -1,0 +1,8 @@
+huggingface_hub
+ipywidgets
+datasets
+soundfile
+transformers
+librosa
+tokenizer
+torch
